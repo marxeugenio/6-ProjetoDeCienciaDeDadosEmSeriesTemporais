@@ -1,2 +1,5 @@
-# 6-ProjetoDeCienciaDeDadosEmSeriesTemporais
-Neste exemplo, dados de contagem de bicicletas no Fremont Bridge, Seattle, foram analisados. Após a leitura e processamento, o conjunto de dados foi resumido estatisticamente. Visualizações gráficas foram utilizadas para mostrar as contagens ao longo do tempo, destacando padrões sazonais e suavizando variações diárias com médias móveis. 
+# Projeto de Análise de Dados - Contagem de Bicicletas na Ponte Fremont de Seattle
+
+Este projeto utiliza dados de contagem de bicicletas na Ponte Fremont de Seattle, provenientes de um contador automático instalado em 2012. Sensores indutivos nas calçadas leste e oeste da ponte fornecem contagens horárias de bicicletas.
+
+Após o download do conjunto de dados, utilizamos Pandas para criar um DataFrame, definindo a coluna de datas como índice e solicitando a análise automática das datas.
